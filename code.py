@@ -15,4 +15,3 @@ friends.reverse
 friends.pop(1)
 friends.remove(False)
 print(friends)
-
